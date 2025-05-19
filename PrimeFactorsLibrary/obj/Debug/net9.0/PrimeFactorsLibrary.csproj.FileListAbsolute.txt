@@ -1,0 +1,11 @@
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\bin\Debug\net9.0\PrimeFactorsLibrary.deps.json
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\bin\Debug\net9.0\PrimeFactorsLibrary.dll
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\bin\Debug\net9.0\PrimeFactorsLibrary.pdb
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\PrimeFactorsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\PrimeFactorsLibrary.AssemblyInfoInputs.cache
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\PrimeFactorsLibrary.AssemblyInfo.cs
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\PrimeFactorsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\PrimeFactorsLibrary.dll
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\refint\PrimeFactorsLibrary.dll
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\PrimeFactorsLibrary.pdb
+C:\Users\Memito\Documents\PrimeFactorsSolution\PrimeFactorsLibrary\obj\Debug\net9.0\ref\PrimeFactorsLibrary.dll
