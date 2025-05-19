@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PrimeFactorsApp/1.0.0": {
+        "dependencies": {
+          "PrimeFactorsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PrimeFactorsApp.dll": {}
+        }
+      },
+      "PrimeFactorsLibrary/1.0.0": {
+        "runtime": {
+          "PrimeFactorsLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrimeFactorsApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PrimeFactorsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
